@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Meghana Biryani",
+      "sla": "45",
+      "cuisine": "Biryani, South Indian",
+      "rating": "4.9",
+      "costForTwo": "900",
+      "img": "https://b.zmtcdn.com/data/o2_assets/bf2d0e73add1c206aeeb9fec762438111727708719.png"
+    },
+    {
+      "id": 2,
+      "name": "Pizza Hut",
+      "sla": "25",
+      "cuisine": "Pizza, Italian",
+      "rating": "3.9",
+      "costForTwo": "500",
+      "img": "https://b.zmtcdn.com/data/o2_assets/d0bd7c9405ac87f6aa65e31fe55800941632716575.png"
+    }, {
+      "id": 3,
+      "name": "Mc Donalds",
+      "sla": "29",
+      "cuisine": "Burger, American",
+      "rating": "4.1",
+      "costForTwo": "300",
+      "img": "https://b.zmtcdn.com/data/dish_images/ccb7dc2ba2b054419f805da7f05704471634886169.png"
+    }, {
+      "id": 4,
+      "name": "Dosa Planet",
+      "sla": "19",
+      "cuisine": "South Indian",
+      "rating": "5.0",
+      "costForTwo": "400",
+      "img": "https://b.zmtcdn.com/data/o2_assets/8dc39742916ddc369ebeb91928391b931632716660.png"
+    }
+  ]
+}
