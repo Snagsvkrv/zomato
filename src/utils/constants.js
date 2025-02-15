@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://github.githubassets.com/favicons/favicon.svg"

@@ -2,37 +2,85 @@
   "data": [
     {
       "id": 1,
-      "name": "Meghana Biryani",
+      "name": "Biryani",
       "sla": "45",
       "cuisine": "Biryani, South Indian",
-      "rating": "4.9",
+      "rating": 4.9,
       "costForTwo": "900",
       "img": "https://b.zmtcdn.com/data/o2_assets/bf2d0e73add1c206aeeb9fec762438111727708719.png"
     },
     {
       "id": 2,
-      "name": "Pizza Hut",
+      "name": "Pizza",
       "sla": "25",
       "cuisine": "Pizza, Italian",
-      "rating": "3.9",
+      "rating": 3.9,
       "costForTwo": "500",
       "img": "https://b.zmtcdn.com/data/o2_assets/d0bd7c9405ac87f6aa65e31fe55800941632716575.png"
     }, {
       "id": 3,
-      "name": "Mc Donalds",
+      "name": "Burger",
       "sla": "29",
       "cuisine": "Burger, American",
-      "rating": "4.1",
+      "rating": 4.1,
       "costForTwo": "300",
       "img": "https://b.zmtcdn.com/data/dish_images/ccb7dc2ba2b054419f805da7f05704471634886169.png"
     }, {
       "id": 4,
-      "name": "Dosa Planet",
+      "name": "Dosa",
       "sla": "19",
       "cuisine": "South Indian",
-      "rating": "5.0",
+      "rating": 5.0,
       "costForTwo": "400",
       "img": "https://b.zmtcdn.com/data/o2_assets/8dc39742916ddc369ebeb91928391b931632716660.png"
+    }, {
+      "id": 5,
+      "name": "Thali",
+      "sla": "32",
+      "cuisine": "South Indian",
+      "rating": 4.0,
+      "costForTwo": "200",
+      "img": "https://b.zmtcdn.com/data/o2_assets/52eb9796bb9bcf0eba64c643349e97211634401116.png"
+    }, {
+      "id": 6,
+      "name": "Fried Rice",
+      "sla": "42",
+      "cuisine": "Chinese",
+      "rating": 4.4,
+      "costForTwo": "150",
+      "img": "https://b.zmtcdn.com/data/o2_assets/e444ade83eb22360b6ca79e6e777955f1632716661.png"
+    }, {
+      "id": 7,
+      "name": "North Indian",
+      "sla": "52",
+      "cuisine": "North Indian",
+      "rating": 4.6,
+      "costForTwo": "250",
+      "img": "https://b.zmtcdn.com/data/o2_assets/019409fe8f838312214d9211be010ef31678798444.jpeg"
+    }, {
+      "id": 8,
+      "name": "Paratha",
+      "sla": "39",
+      "cuisine": "Punjabi",
+      "rating": 4.9,
+      "costForTwo": "100",
+      "img": "https://b.zmtcdn.com/data/o2_assets/2b5a5b533473aada22015966f668e30e1633434990.png"
+    }, {
+      "id": 9,
+      "name": "Rolls",
+      "sla": "17",
+      "cuisine": "North Indian",
+      "rating": 4.8,
+      "costForTwo": "200",
+      "img": "https://b.zmtcdn.com/data/dish_images/c2f22c42f7ba90d81440a88449f4e5891634806087.png"
+    }, {
+      "id": 10,
+      "name": "Cake",
+      "sla": "42",
+      "cuisine": "Bakery",
+      "rating": 4.5,
+      "costForTwo": "500",
+      "img": "https://b.zmtcdn.com/data/dish_images/d5ab931c8c239271de45e1c159af94311634805744.png"
     }
   ]
 }
